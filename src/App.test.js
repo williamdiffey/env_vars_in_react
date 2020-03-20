@@ -1,4 +1,5 @@
 import React from 'react';
+require('dotenv').config()
 import { render } from '@testing-library/react';
 import App from './App';
 
